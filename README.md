@@ -2,12 +2,6 @@
 
 **A production-grade, fully local AI travel assistant built with a multi-service architecture seamlessly orchestrating an MCP Server, a LangChain-powered Agent Backend, and a premium React Frontend.**
 
----
-
-## 🎥 Video Demonstration & Evaluation Guide
-
-*This section serves as the formal outline for the video presentation component of the evaluation, detailing the agentic development approach, architectural constraints, and deployment strategies.*
-
 ### 1. Approach & Agentic IDE Prompts
 The development of ARIA was heavily accelerated using an agentic IDE approach, treating the AI as an active collaborative partner. The approach was segmented into three iterative layers:
 
